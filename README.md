@@ -63,3 +63,13 @@ performance trends.
 **Amolika Jain**
 
 Data Analytics | Excel | SQL | Python | Power BI
+
+## 📸 Dashboard Preview
+
+### Player Performance Dashboard
+
+![Player Performance Dashboard](Screenshot%202026-10-06%20225258.png)
+
+### Team Performance Dashboard
+
+![Team Performance Dashboard](Screenshot%202026-10-06%20225357.png)
